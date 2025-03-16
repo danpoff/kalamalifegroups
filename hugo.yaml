@@ -1,0 +1,18 @@
+paginate: 0
+baseURL: https://kalamalifegroups.org/
+languageCode: en-us
+title: Kalama Life Groups
+theme: "PaperMod"
+
+# markup:
+#   goldmark:
+#     renderer:
+#       unsafe: true
+
+params:
+  profileMode:
+    enabled: true
+    title: "Kalama Life Groups"
+    subtitle: "Love like Jesus · Live like Jesus · Lead like Jesus"
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
